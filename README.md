@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About
+## 👋 About
 
-* I'm a Deep Learning Researcher in [Standard.ai](https://standard.ai/).
+* 🖥️ I'm a Deep Learning Researcher in [Standard.ai](https://standard.ai/).
 * My Research Interest includes **Pose Esitimation and Tracking**, **Person Re-Identification**.
-* I'm also a Game Developer in [YiGu Studio](https://github.com/YiGu-Studio).
+
+* 🎮 I'm also a Game Developer in [YiGu Studio](https://github.com/YiGu-Studio).
 * We are working on a [Three Kingdoms Mod](https://www.moddb.com/mods/three-kingdoms) for [Mount & Blade 2 Bannerlord](https://www.taleworlds.com/en/Games/Bannerlord).
-* Check my resume and projects on my website: http://oliverwu.georgetown.domains/.
+
+* ℹ️ Check my resume and projects on my website: http://oliverwu.georgetown.domains/.
 
 ## 📫 How to reach me:
 
