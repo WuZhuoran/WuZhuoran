@@ -1,5 +1,7 @@
 ### Zhuoran Wu
 
+![](https://komarev.com/ghpvc/?username=WuZhuoran)
+
 <!--
 **WuZhuoran/WuZhuoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
